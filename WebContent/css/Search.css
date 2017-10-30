@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+.SearchBox {
+    width: 500px;
+    height: 300px;
+    border-style: dashed;
+}
+
+.SearchImg {
+    height: 80%;
+    width: 150px;
+    border-style: dotted;
+    float: left;
+}
+
+.SearchResult {
+    width: 400px;
+    height: 80%;
+    float: left;
+    /*    border-style: solid;*/
+}
+
+.SearchResult table {
+    width: 90%;
+    text-align: center;
+    table-layout: fixed;
+}
